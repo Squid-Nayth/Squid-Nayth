@@ -1,7 +1,12 @@
 ## Salut 👋
 
+## Compétences 
+
 ![Tier list](https://github.com/user-attachments/assets/5f7e3825-e9e5-4b5b-8044-e11bdacd0649)
 
+## Quelques stats 
+
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=dreeckan&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 <!--
 **Squid-Nayth/Squid-Nayth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
