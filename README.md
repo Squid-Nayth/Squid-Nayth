@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Tier list](https://github.com/user-attachments/assets/5f7e3825-e9e5-4b5b-8044-e11bdacd0649)
+
 <!--
 **Squid-Nayth/Squid-Nayth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
