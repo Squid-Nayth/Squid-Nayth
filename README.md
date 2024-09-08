@@ -1,4 +1,5 @@
 ## Salut 👋
+Je suis étudiant en 1ère année en informatique.
 
 ## Compétences 
 
