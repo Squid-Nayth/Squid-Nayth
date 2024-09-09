@@ -1,5 +1,5 @@
 ## Hello there 👋
-I am a first-year computer science student.
+I am a 1st year  computer science student.
 Curious to explore the world of software development, I'm embarking on this journey, hoping to become as passionate about this field as I am about the one that inspired me to pursue it: video game creation.
 
 ## Skills
