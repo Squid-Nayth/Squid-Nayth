@@ -5,11 +5,11 @@
 
 - 🔭 Je travaille actuellement chez [Screenfix](Screenfix)
 
-- 🌱 J'apprends actuellement **le développement web front-end et backend en autodidacte et dans une école d'informatique**
+- 🌱 J'apprends actuellement **le développement web front-end et backend en autodidactedans dans une école d'informatique**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio](TDA)
+- 👨‍💻 Tous mes projets sont disponibles sur [mon Portfolio](TDA)
 
-- 📫 Contacter moi avec : **nathannkombe@gmail.com**
+- 📫 Contacter moi via : **nathannkombe@gmail.com**
 
 - 📄 Découvrez mes expériences sur : [mon CV](TDA)
 
