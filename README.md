@@ -5,7 +5,7 @@
 
 - 🔭 Je travaille actuellement chez [Screenfix](Screenfix)
 
-- 🌱 J'apprends actuellement **le développement web front-end et backend**
+- 🌱 J'apprends actuellement **le développement web front-end et backend en autodidacte et dans une école d'informatique**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio](TDA)
 
