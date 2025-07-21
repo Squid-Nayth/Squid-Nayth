@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I’m Nathan Michel</h1>
 <h3 align="center">A passionate frontend and backend developer currently based in Paris</h3>
 
-- 🖥️ I’m currently working at [Screenfix](Screenfix)
+- 🖥️ I’m currently working at [Screenfix](https://github.com/Squid-Nayth/Screenfix)
 
 - 🌱 I’m currently learning **frontend and backend web development as a self-taught student in a computer science school**
 
