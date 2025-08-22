@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frontend and backend web development as a self-taught student in a computer science school**
 
-- 👨‍💻 All my projects are available on [my Portfolio](TDA)
+- 👨‍💻 All my projects are available on [my Portfolio](nathannkombe.tech)
 
 - 📫 Contact me at: **nathannkombe@gmail.com**
 
