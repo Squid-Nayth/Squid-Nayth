@@ -11,7 +11,7 @@
 
 - 📫 Contact me at: **nathannkombe@gmail.com**
 
-- 📄 Check out my experiences on: [my CV](TDA)
+- 📄 Check out my experiences on: [my CV](https://github.com/Squid-Nayth/Squid-Nayth/blob/main/resume/CV%202025%20v4.5.pdf)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squid-nayth&show_icons=true&locale=en&layout=compact" alt="squid-nayth" /></p>
 
