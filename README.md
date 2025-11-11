@@ -5,7 +5,7 @@
 
 - 🖥️ I’m currently working with [M.Meyland](https://github.com/MeylandMan)
 
-- 🌱 I’m currently learning **frontend and backend web development as a self-taught student in a computer science school**
+- 🌱 I’m currently learning **frontend and backend web development in a computer science school**
 
 - 👨‍💻 All my projects are available on [my Portfolio](nathannkombe.tech)
 
