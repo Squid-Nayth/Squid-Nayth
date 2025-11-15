@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frontend and backend web development in a computer science school**
 
-- 👨‍💻 All my projects are available on [my Portfolio](nathannkombe.tech)
+- 👨‍💻 All my projects are available on [my Portfolio](https://nathannkombe.tech)
 
 - 📫 Contact me at: **nathanmichel@eva-studio.dev**
 
