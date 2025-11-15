@@ -9,9 +9,9 @@
 
 - 👨‍💻 All my projects are available on [my Portfolio](nathannkombe.tech)
 
-- 📫 Contact me at: **nathannkombe@gmail.com**
+- 📫 Contact me at: **nathanmichel@eva-studio.dev**
 
-- 📄 Check out my experiences on: [my CV](https://github.com/Squid-Nayth/Squid-Nayth/blob/main/resume/CV%202025%20v4.5.pdf)
+- 📄 Check out my experiences on: [my CV](https://nathannkombe.tech/public/docs/nathan-cv.pdf)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squid-nayth&show_icons=true&locale=en&layout=compact" alt="squid-nayth" /></p>
 
