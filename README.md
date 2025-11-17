@@ -24,7 +24,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=squid-nayth&show_icons=true&locale=en" alt="squid-nayth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=squid-nayth&" alt="squid-nayth" /></p>
+
 
 <h3 align="left">Languages and tools:</h3>
 
