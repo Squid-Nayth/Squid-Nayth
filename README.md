@@ -42,9 +42,16 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://brandlogos.net/wp-content/uploads/2025/10/docker_mark-logo_brandlogos.net_yetav.png" alt="Docker" width="40" height="40"/>
+  <img src="https://nathannkombe.tech/public/images/icons8-mongo-db-96.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://nathannkombe.tech/public/images/Kotlin.svg" alt="Kotlin" width="40" height="40"/>
+   
+
+  
+          
  </p>
 
 ### 🟡 Intermediate
+
 <p align="left">
   <img src="https://nathannkombe.tech/public/images/icons8-github-94.png" alt="github" width="40" height="40"/>        
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
