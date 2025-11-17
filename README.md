@@ -46,7 +46,7 @@
 
 ### 🟡 Intermediate
 <p align="left">
-  <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" width="40" height="40"/>
+  <img src="https://nathannkombe.tech/public/images/icons8-github-94.png" alt="github" width="40" height="40"/>        
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="visual-studio-code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/actions/starter-workflows/58e7cd05f5fafcdf73c5efd768127bc8522cfd98/icons/powershell.svg" alt="powershell" width="40" height="40"/>
