@@ -1,4 +1,5 @@
-<p aligh="center"><img src="https://github.com/Squid-Nayth/Squid-Nayth/blob/main/resume/IMG_1602.JPG" alt="wallpaper"</p>
+<p aligh="center"><img src="https://github.com/Squid-Nayth/Squid-Nayth/blob/main/IMG_1602%202.jpg" alt="wallpaper"</p>
+
 
 
 
