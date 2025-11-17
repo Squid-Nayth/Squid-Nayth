@@ -1,4 +1,10 @@
+<p aligh="center"><img src="https://github.com/Squid-Nayth/Squid-Nayth/blob/main/resume/IMG_1602.JPG" alt="wallpaper"</p>
+
+
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
           
 <h1 align="center">Hi 👋, I’m Nathan Michel</h1>
 <h3 align="center">A passionate frontend and backend developer currently based in Paris</h3>
