@@ -50,7 +50,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="visual-studio-code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/actions/starter-workflows/58e7cd05f5fafcdf73c5efd768127bc8522cfd98/icons/powershell.svg" alt="powershell" width="40" height="40"/>
-  <img src="https://bashlogo.com/img/symbol/jpg/monochrome_dark.jpg" alt="bash" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
 </p>
 
