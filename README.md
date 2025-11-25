@@ -20,10 +20,6 @@
 
 - 📄 Check out my experiences on: [my CV](https://nathannkombe.tech/public/docs/nathan-cv.pdf)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squid-nayth&show_icons=true&locale=en&layout=compact" alt="squid-nayth" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=squid-nayth&show_icons=true&locale=en" alt="squid-nayth" /></p>
-
 
 
 <h3 align="left">Languages and tools:</h3>
